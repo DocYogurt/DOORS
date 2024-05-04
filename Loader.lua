@@ -10,7 +10,7 @@ coroutine.wrap, coroutine.yield, debug.debug, debug.gethook, debug.getlocal, deb
 debug.sethook, debug.setlocal, debug.setmetatable, debug.setupvalue, debug.setuservalue, debug.traceback
 
 
-lcoal GL = {
+local GL = {
     [{6839171747}] = "NBDOORS"
 }
 
