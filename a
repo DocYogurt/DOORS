@@ -1,0 +1,12 @@
+{
+    "data": {
+        "ItemHub": {
+            "ver": "1.0",
+            "status": "公测",
+            "by": "DX"
+        },
+        "XiaoTianMotherless": {
+            "status": true
+        }
+    }
+}
